@@ -6,7 +6,7 @@ chmod +x ./install
 apt install ./smsid_1.1_all.deb
 clear
 
-toilet -f slant --gay "github.com/19LhansBeutik33"
+toilet -f slant --gay "19LhansBeutik33"
 sleep 1
 echo "\033[33;1m Banyak Pilihan Menu Untuk Kalian Bangsat!!"
 sleep 1
